@@ -1,0 +1,7 @@
+# Project exclude paths
+/auth/target/
+/domain/target/
+/email-app/target/
+/repository/target/
+/service/target/
+/web/target/
